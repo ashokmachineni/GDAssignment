@@ -1,0 +1,27 @@
+{
+    "stocks": [{
+            "question": "who will be monitoring the stock market and storing the stocks ? ",
+            "answer": "Government authorities moniters stock market and government create a special body for monitor stock market or stock exchange. It will control the stock market operations and this stores the stocks.Ex: NASDAQ  in USA"
+        },
+        {
+            "question": "who sells the stocks ?",
+            "answer": "Companies who registered in stock market can sell certain amount of stocks with the help of stock exchange.Like Apple company sell their shares via share market with the help of stock exchange Nasdaq."
+        },
+        {
+            "question": "Where are the public stocks stored?",
+            "answer": "Stock exchange authorities monitors and stores both public and private companies stocks. They are using large set of databases and cloud servers to securely store and monitor stocks data."
+        },
+        {
+            "question": "who makes the investments?",
+            "answer": "Government can make certain rules to invest in Stock market. If anyone who obeys/reach their policies they can invest in stockmarket. Individual persons and companies can invest in stock markets."
+        },
+        {
+            "question": "How does the economy calculated?",
+            "answer": "Each country's economy depends upon lot of factors and it represents in GDP. GDP and stock market both are depends on each other.If stockmarket is in high or in profits that means companys economy in good stage."
+        },
+        {
+            "question": "what are the different types of stocks ?",
+            "answer": "There are two types of stocks.those are penny stocks that means small value or small scale company stocks and Large scale company value. like Apple,IBM etc are large scale companies."
+        }
+    ]
+}
